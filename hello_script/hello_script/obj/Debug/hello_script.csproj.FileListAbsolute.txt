@@ -1,0 +1,7 @@
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\bin\Debug\hello_script.exe
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\bin\Debug\hello_script.pdb
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\obj\Debug\hello_script.csproj.AssemblyReference.cache
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\obj\Debug\hello_script.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\obj\Debug\hello_script.csproj.CoreCompileInputs.cache
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\obj\Debug\hello_script.exe
+C:\Users\User\git-actually\helloapp-black\hello_script\hello_script\obj\Debug\hello_script.pdb
