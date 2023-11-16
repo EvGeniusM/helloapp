@@ -8,5 +8,10 @@ namespace hello_script
         {
             Console.WriteLine("hello");
         }
+
+        public static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
